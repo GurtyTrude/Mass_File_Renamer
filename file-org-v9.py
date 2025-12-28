@@ -1,6 +1,6 @@
 # File-Org-V9.py
 # File Renamer Pro v9.0
-# Changes (2025-12-27 for GurtyTrude):
+:
 # - CRITICAL FIX: Excel file no longer held in limbo after operations
 #   - Cache now properly released after each operation
 #   - File can be opened/edited/re-run without restarting .exe
